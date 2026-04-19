@@ -1,4 +1,4 @@
-**Focus:** HTML, CCS
+**Focus:** HTML, CCS, Java
 <br>
 <br>
 <br>
