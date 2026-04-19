@@ -1,8 +1,4 @@
-# Arch Installer
-
-**Project:** Arch Linux Fast Installer
-<br>
-**Focus:** Hyprland, Dotfiles (HyDE, HyprLuna, End-4, Caelestia`current`)
+**Focus:** HTML, CCS
 <br>
 <br>
 <br>
