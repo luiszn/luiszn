@@ -1,4 +1,3 @@
-**Focus:** HTML, CCS, JS
 <br>
 <br>
 <br>
