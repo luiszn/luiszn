@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 <div align="Center">
 <h1>Skills</h1>
 </div>
