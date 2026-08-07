@@ -18,7 +18,8 @@
 <div align="Center">
 <h1>Operating Systems</h1>
 
-<img src="https://skillicons.dev/icons?i=linux"/>
+<img src="https://skillicons.dev/icons?i=linux" />
+<img src="https://skillicons.dev/icons?i=all" />
 
 </div>
 
